@@ -1,7 +1,7 @@
 # Deepfake Detection on Social Media
 ## Leveraging Deep Learning for Identifying Machine-Generated Tweets
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
 
 ## 📌 Project Overview
 
