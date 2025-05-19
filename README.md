@@ -5,6 +5,9 @@
 
 ## 📌 Project Overview
 
+![image](https://github.com/user-attachments/assets/ae41fcfc-70e6-429c-bb05-b16338b157a7)
+
+
 This project aims to detect deepfake content on social media platforms, specifically focusing on **machine-generated tweets**. Using deep learning techniques, we classify tweets as **human-written** or **AI-generated**, contributing to the effort of identifying misinformation and synthetic media online.
 
 ## 🧠 Objective
